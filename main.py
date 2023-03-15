@@ -197,7 +197,7 @@ else:
     print(f"lamentablemente como  tienes {edad} años , No puedes ingresar al establecimiento, regresa cuando tengas cedula ")
 
 
-
+'''
 a = True
 b = False
 
@@ -210,7 +210,7 @@ print(f'resultado or  {result}')
 result = not a
 print(f'resultado negado de a   {result}')
 
-'''
+
 
 #valor que sea emtero , una valor minimo y lo quemamos , valor maximo lo quemamos en 20 y luego que tengamos los numero ingresados y comparamos si el valor ingresado esta en el rango
 
